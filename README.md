@@ -1,4 +1,8 @@
-# Monorepo - Build and Maintain Monorepo like a Boss
+# Deprecated - use [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) instead
+
+---
+
+## Monorepo - Build and Maintain Monorepo like a Boss
 
 [![Build Status](https://img.shields.io/travis/Symplify/Monorepo/master.svg?style=flat-square)](https://travis-ci.org/Symplify/Monorepo)
 [![Downloads](https://img.shields.io/packagist/dt/symplify/monorepo.svg?style=flat-square)](https://packagist.org/packages/symplify/monorepo)
